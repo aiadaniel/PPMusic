@@ -6,11 +6,28 @@
     },
     {
       "name": "EntryAbility_desc",
-      "value": "description"
+      "value": "Entry"
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "PPMusic"
+    },
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "shop",
+      "value": "Shop"
+    },
+    {
+      "name": "mine",
+      "value": "Mine"
     }
+
   ]
 }

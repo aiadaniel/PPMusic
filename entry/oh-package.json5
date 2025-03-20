@@ -5,6 +5,10 @@
   "main": "",
   "author": "",
   "license": "",
-  "dependencies": {}
+  "dependencies": {
+    "home": "file:../home",
+    "live": "file:../live",
+    "mine": "file:../mine",
+  }
 }
 
